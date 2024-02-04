@@ -1557,6 +1557,7 @@ pre code {
   color: #f00;
   display: inline-block;
   margin: 0 5px;
+  animation: icon-animate 1.33s ease-in-out infinite;
 }
 @keyframes icon-animate {
   0%, 100% {
@@ -2448,7 +2449,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #c79159;
+  background: #9341ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
