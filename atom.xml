@@ -3,14 +3,14 @@
   <title>RimuruChiaki&#39;s Blog</title>
   
   <subtitle>彼彼的博客，此地包包出没</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://rimuruchiaki.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://rimuruchiaki.github.io/"/>
   <updated>2024-02-04T08:58:18.662Z</updated>
-  <id>http://example.com/</id>
+  <id>http://rimuruchiaki.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Rimuru</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Welcome to our little warm nest</title>
-    <link href="http://example.com/2024/02/04/Welcome-to-our-little-warm-nest/"/>
-    <id>http://example.com/2024/02/04/Welcome-to-our-little-warm-nest/</id>
+    <link href="http://rimuruchiaki.github.io/2024/02/04/Welcome-to-our-little-warm-nest/"/>
+    <id>http://rimuruchiaki.github.io/2024/02/04/Welcome-to-our-little-warm-nest/</id>
     <published>2024-02-04T06:34:38.000Z</published>
     <updated>2024-02-04T08:58:18.662Z</updated>
     
